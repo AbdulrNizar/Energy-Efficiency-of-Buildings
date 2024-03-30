@@ -1,5 +1,0 @@
-cd E:\ampa_migra\C\Users\DELL\Documents\Abdulrahman\BSc (Hons) in IT University of West London\Databases and Analytics\Databases and Analytics Assessment
-git add Energy_dataset
-git commit -m "Add Energy_dataset dataset file"
-git remote add energy_data https://github.com/AbdulrNizar/Energy-Efficiency-of-Buildings.git
-git push -u energy_data master
